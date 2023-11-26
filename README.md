@@ -1,6 +1,7 @@
 ### Hi there 👋
-- 📍 Israel
-- 🌱 Here is my space to explore, learn, and experiment with technologies I am interested in.
+  ♀️ she/her
+ 📍 Israel
+ 🌱 Here is my space to explore, learn, and experiment with technologies I am interested in.
 
 <!--
 **ortita/ortita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
