@@ -1,7 +1,9 @@
 ### Hi there 👋
--  ♀️ she/her
-- 📍 Israel
-- 🌱 Here is my space to explore, learn, and experiment with technologies I am interested in.
+ ♀️ she/her
+ 
+ 📍 Israel
+ 
+ 🌱 Here is my space to explore, learn, and experiment with technologies I am interested in.
   
 
 <!--
